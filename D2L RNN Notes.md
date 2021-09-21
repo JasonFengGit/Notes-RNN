@@ -15,11 +15,11 @@
 
 ### Vanilla RNN
 
-![](C:\Users\Jason\Desktop\Vanilla_RNN.png)
+![](https://github.com/JasonFengGit/Notes-RNN/blob/main/image/Vanilla_RNN.png?raw=true)
 
 - The classic RNN architecture, may encounter gradient vanishing & gradient explosion
 
-![](C:\Users\Jason\Desktop\RNN_Language_model.png)
+![](https://github.com/JasonFengGit/Notes-RNN/blob/main/image/RNN_Language_model.png?raw=true)
 
 ### GRU
 
